@@ -1,3 +1,9 @@
+# Modification
+Add prepare_multiweather.py for simple structure multilabel multiweather dataset
+
+# Multiweather Dataset
+https://doi.org/10.1016/j.neucom.2018.09.048
+
 # TDRG
 Pytorch implementation of [Transformer-based Dual Relation Graph for Multi-label Image Recognition. ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Transformer-Based_Dual_Relation_Graph_for_Multi-Label_Image_Recognition_ICCV_2021_paper.html)
 
