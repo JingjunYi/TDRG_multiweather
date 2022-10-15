@@ -1,0 +1,1 @@
+multiweather: python main.py  --data multiweather --data_root_dir E:/DeepLearning/multiweather/dataset/MultiWeather --save_dir ./checkpoint/multiweather/ --i 256  --lr 0.03 -b 8
